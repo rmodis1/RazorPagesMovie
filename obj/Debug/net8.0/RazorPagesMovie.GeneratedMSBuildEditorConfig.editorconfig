@@ -26,32 +26,28 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/ryanmodisette/Documents/C#/RazorTutorial/RazorPagesMovie
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/ryanmodisette/Documents/C\#/RazorTutorial/RazorPagesMovie/Pages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ryanmodisette/Documents/C\#/RazorTutorial/RazorPagesMovie/Pages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ryanmodisette/Documents/C\#/RazorTutorial/RazorPagesMovie/Pages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ryanmodisette/Documents/C\#/RazorTutorial/RazorPagesMovie/Pages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/ryanmodisette/Documents/C\#/RazorTutorial/RazorPagesMovie/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/ryanmodisette/Documents/C\#/RazorTutorial/RazorPagesMovie/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/ryanmodisette/Documents/C\#/RazorTutorial/RazorPagesMovie/Pages/Movies/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTW92aWVzL0NyZWF0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/ryanmodisette/Documents/C\#/RazorTutorial/RazorPagesMovie/Pages/Movies/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTW92aWVzL0RlbGV0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/ryanmodisette/Documents/C\#/RazorTutorial/RazorPagesMovie/Pages/Movies/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTW92aWVzL0RldGFpbHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/ryanmodisette/Documents/C\#/RazorTutorial/RazorPagesMovie/Pages/Movies/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTW92aWVzL0VkaXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/ryanmodisette/Documents/C\#/RazorTutorial/RazorPagesMovie/Pages/Movies/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTW92aWVzL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/ryanmodisette/Documents/C\#/RazorTutorial/RazorPagesMovie/Pages/Privacy.cshtml]

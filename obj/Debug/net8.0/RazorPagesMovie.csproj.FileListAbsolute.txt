@@ -276,3 +276,4 @@
 /Users/ryanmodisette/Documents/C#/RazorTutorial/RazorPagesMovie/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Windows.Extensions.dll
 /Users/ryanmodisette/Documents/C#/RazorTutorial/RazorPagesMovie/obj/Debug/net8.0/RazorPagesMovie.csproj.AssemblyReference.cache
 /Users/ryanmodisette/Documents/C#/RazorTutorial/RazorPagesMovie/obj/Debug/net8.0/RazorPagesMovie.csproj.CopyComplete
+/Users/ryanmodisette/Documents/C#/RazorTutorial/RazorPagesMovie/obj/Debug/net8.0/RazorPagesMovie.sourcelink.json
